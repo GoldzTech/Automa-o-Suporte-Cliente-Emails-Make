@@ -20,7 +20,7 @@ O sistema monitora uma caixa de entrada do Outlook, utiliza a API do Groq com o 
 
 ##  Exemplo Com Imagem
 
-[exemplo](assets\automação-email-make)
+[exemplo](assets/automação-email-make/automação.png.png)
 
 ##  workflow Fluxo da Automação
 
